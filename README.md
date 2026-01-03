@@ -11,11 +11,20 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 
 ---
 
-### 00. Proyecto de ejemplo en C/C++
+00. Reproductor de audio en consola
+
 - 📅 Fecha: Enero 2026  
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Proyecto-Ejemplo-C-Cpp/tree/main)  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/programacion-en-C-Cpp)  
+- 🛠️ Tecnologías: C / DLL / Consola interactiva  
+- 📄 Descripción: Este proyecto implementa un reproductor básico en C que permite al usuario seleccionar y reproducir canciones almacenadas en un archivo `.raw`.  
+  La función `play_audio(...)` fue provista en una DLL externa, y el foco del ejercicio estuvo en organizar la información de cada pista, mostrar un menú interactivo y permitir la reproducción o guardado de canciones.  
+  Se trabajó con estructuras, manejo de memoria dinámica, lectura binaria y compilación modular con DLL.
+  
+### 01. ...
+- 📅 Fecha: ...  
+- 🔗 [En construccion](enlace_aca)  
 - 🛠️ Tecnologías: C / C++  
-- 📄 Descripción: Este es un proyecto de ejemplo para iniciar la recopilación. Aquí se puede colocar una breve explicación del objetivo y funcionalidades.
+- 📄 Descripción: ...
 
 ---
 
