@@ -11,7 +11,7 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 
 ---
 
-00. Reproductor de audio en consola
+### 00. Reproductor de audio en consola
 
 - 📅 Fecha: Enero 2026  
 - 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/programacion-en-C-Cpp)  
