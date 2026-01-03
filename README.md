@@ -14,7 +14,7 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 ### 00. Reproductor de audio en consola
 
 - 📅 Fecha: Enero 2026  
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/programacion-en-C-Cpp)  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Reproductor-de-audio-en-consola/tree/main)  
 - 🛠️ Tecnologías: C / DLL / Consola interactiva  
 - 📄 Descripción: Este proyecto implementa un reproductor básico en C que permite al usuario seleccionar y reproducir canciones almacenadas en un archivo `.raw`.  
   La función `play_audio(...)` fue provista en una DLL externa, y el foco del ejercicio estuvo en organizar la información de cada pista, mostrar un menú interactivo y permitir la reproducción o guardado de canciones.  
