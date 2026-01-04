@@ -32,13 +32,13 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 ### 02. Análisis de potencias en motores monofásicos
 
 - 📅 Fecha: Enero 2026  
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/programacion-en-C-Cpp)  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/An-lisis-de-potencias-en-motores-monof-sicos/tree/main)  
 - 🛠️ Tecnologías: C / Archivos binarios / Cálculos eléctricos  
 - 📄 Descripción: Este proyecto implementa un programa en C que calcula la potencia activa (P) y la potencia aparente (S) de tres motores monofásicos a partir de datos eléctricos almacenados en archivos `.dat`.  
   El algoritmo lee las muestras de tensión, corriente y tiempo, organiza los registros en estructuras, calcula valores RMS y determina qué motor cumple la condición de mayor P y menor S.  
   Aunque no se incluyen capturas, el repositorio documenta en detalle el flujo del programa y el cálculo de las potencias.
   
-### 02. ...
+### 03. ...
 - 📅 Fecha: ...  
 - 🔗 [En construccion](enlace_aca)  
 - 🛠️ Tecnologías: C / C++  
