@@ -23,7 +23,7 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 ### 01. Análisis de rendimiento de paneles solares
 
 - 📅 Fecha: Enero 2026  
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/programacion-en-C-Cpp)  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/An-lisis-de-rendimiento-de-paneles-solares/tree/main)  
 - 🛠️ Tecnologías: C / Archivos binarios / Operaciones con bits  
 - 📄 Descripción: Este proyecto implementa un programa en C que analiza el rendimiento de dos paneles solares a partir de datos almacenados en un archivo binario `.dat`.  
   El programa recorre los paquetes enlazados de cada panel, calcula el rendimiento de cada muestra y muestra estadísticas de rendimiento máximo, mínimo y promedio.  
