@@ -28,6 +28,15 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 - 📄 Descripción: Este proyecto implementa un programa en C que analiza el rendimiento de dos paneles solares a partir de datos almacenados en un archivo binario `.dat`.  
   El programa recorre los paquetes enlazados de cada panel, calcula el rendimiento de cada muestra y muestra estadísticas de rendimiento máximo, mínimo y promedio.  
   En el repositorio se incluye el archivo `pv_data.dat` para que cualquiera pueda realizar pruebas y comprobar el funcionamiento del programa.
+
+### 02. Análisis de potencias en motores monofásicos
+
+- 📅 Fecha: Enero 2026  
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/programacion-en-C-Cpp)  
+- 🛠️ Tecnologías: C / Archivos binarios / Cálculos eléctricos  
+- 📄 Descripción: Este proyecto implementa un programa en C que calcula la potencia activa (P) y la potencia aparente (S) de tres motores monofásicos a partir de datos eléctricos almacenados en archivos `.dat`.  
+  El algoritmo lee las muestras de tensión, corriente y tiempo, organiza los registros en estructuras, calcula valores RMS y determina qué motor cumple la condición de mayor P y menor S.  
+  Aunque no se incluyen capturas, el repositorio documenta en detalle el flujo del programa y el cálculo de las potencias.
   
 ### 02. ...
 - 📅 Fecha: ...  
